@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+:root{
+    --dark-gray: #2B2D42;
+    --light-gray: #8D99AE;
+    --white: #EDF2F4;
+    --light-red: #EF233C;
+    --dark-red: #D90429;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
